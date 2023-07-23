@@ -9,9 +9,11 @@ I have been working in the field of natural language processing, and I have also
 
 * 🌍  I'm based in Jigawa Nigeria
 * ✉️  You can contact me at [fateemamohdadam2@gmail.com](mailto:fateemamohdadam2@gmail.com)
-* 💕you can read on my publications o:
-* Research https://www.researchgate.net/profile/Fatima-Adam-8
-* 🤝  I'm open to collaborating on With people working AI research area, especially Natural Language Processing.
+* 💕you can read on my publications on:
+* Researchgate https://www.researchgate.net/profile/Fatima-Adam-8
+* open rewiew  https://openreview.net/profile?id=~Fatima_Adam_Muhammad1
+* 💻 I Blog on MEDIUM https://medium.com/@fateemamohdadam2
+* 🤝  I'm open to collaborating with people working in the AI research area, especially Natural Language Processing.
 * ⚡  I'm WomenTechmaker Ambassador lead Dutse.
 
 <a href="https://www.github.com/FatimaMuhammadAdam" target="_blank" rel="noreferrer"><img
