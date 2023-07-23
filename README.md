@@ -12,7 +12,7 @@ I have been working in the field of natural language processing, and I have also
 * 💕you can read my publications on:
   * [Researchgate](https://www.researchgate.net/profile/Fatima-Adam-8)
   * [open rewiew](https://openreview.net/profile?id=~Fatima_Adam_Muhammad1)
-* 💻 I Blog on [Medium](https://medium.com/@fateemamohdadam2) below are some of my blogs:
+* 💻 I Blog on [Medium](https://medium.com/@fateemamohdadam2) below are some of my posts:
    * [web scraping leveraging the BeautifulSoup Python library]( https://medium.com/@fateemamohdadam2/web-scraping-leveraging-the-beautifulsoup-a-python-library-1d0768565602)
    * [Numpy as the most important foundational package for numerical computing in python](https://medium.com/@fateemamohdadam2/numpy-as-the-most-important-foundational-package-for-numerical-computing-in-python-aae237cabace)
    * [Pandas as a data structure and data manipulation tool](https://medium.com/@fateemamohdadam2/pandas-as-a-data-structure-and-data-manipulation-tool-f948f9ab7024)
