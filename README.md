@@ -12,6 +12,8 @@ I have been working in the field of natural language processing, and I have also
 * 💕you can read my publications on:
   * [Researchgate](https://www.researchgate.net/profile/Fatima-Adam-8)
   * [open rewiew](https://openreview.net/profile?id=~Fatima_Adam_Muhammad1)
+  * [Schoolar.google](https://scholar.google.com/citations?hl=en&user=ezc-QQIAAAAJ)
+    
 * 💻 I Blog on [Medium](https://medium.com/@fateemamohdadam2) below are some of my posts:
    * [web scraping leveraging the BeautifulSoup Python library]( https://medium.com/@fateemamohdadam2/web-scraping-leveraging-the-beautifulsoup-a-python-library-1d0768565602)
    * [Numpy as the most important foundational package for numerical computing in python](https://medium.com/@fateemamohdadam2/numpy-as-the-most-important-foundational-package-for-numerical-computing-in-python-aae237cabace)
@@ -19,6 +21,7 @@ I have been working in the field of natural language processing, and I have also
    * [Machine learning as part of the journey to data science]( https://medium.com/@fateemamohdadam2/machine-learning-as-part-of-the-journey-to-data-science-19b946fb8d09)
    * [Unleashing the power of data visualization for uncovering new insight](https://medium.com/@fateemamohdadam2/unleashing-the-power-of-data-visualization-for-uncovering-new-insights-74d4116e5a9e)
    * [Effective strategies for working with data in machine learning using Python](https://medium.com/@fateemamohdadam2/effective-strategies-for-working-with-data-in-machine-learning-using-python-c263ba754baf)
+   * [Regression Analysis: Predicting the future with data](https://medium.com/@fateemamohdadam2/regression-analysis-predicting-the-future-with-data-215c6d786798)
 
 
 * 🤝  I'm open to collaborating with people working in the AI research area, especially Natural Language Processing.
