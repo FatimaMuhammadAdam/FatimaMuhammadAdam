@@ -8,7 +8,9 @@ A Researcher and AI enthusiast
 I have been working in the field of natural language processing, and I have also worked on machine learning and deep learning projects. I am an alumnus of the Federal University Dutse, the Arewa Data Science fellowship, DSN-Ladies in AI, DSN, and the Global AI Hub.
 
 * 🌍  I'm based in Jigawa Nigeria
-* ✉️  You can contact me at [fateemamohdadam2@gmail.com](mailto:fateemamohdadam2@gmail.com) also you can read on my publication on https://www.researchgate.net/profile/Fatima-Adam-8
+* ✉️  You can contact me at [fateemamohdadam2@gmail.com](mailto:fateemamohdadam2@gmail.com)
+* 💕you can read on my publications o:
+* Research https://www.researchgate.net/profile/Fatima-Adam-8
 * 🤝  I'm open to collaborating on With people working AI research area, especially Natural Language Processing.
 * ⚡  I'm WomenTechmaker Ambassador lead Dutse.
 
