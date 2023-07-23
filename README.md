@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A Researcher and AI enthusiast
 ------------------------------
 
-I have been working in the field of natural language processing, and I have also worked on machine learning and deep learning projects. I am an alumnus of the Federal University Dutse, the Arewa Data Science fellowship, DSN-Ladies in AI, DSN, and the Global AI Hub.
+I have been working in the field of natural language processing, and I have also worked on machine learning and deep learning projects. I am an alumnus of the Federal University Dutse, the Arewa Data Science Fellowship, DSN-Ladies in AI, DSN, and the Global AI Hub.
 
 * 🌍  I'm based in Jigawa Nigeria
 * ✉️  You can contact me at [fateemamohdadam2@gmail.com](mailto:fateemamohdadam2@gmail.com)
@@ -13,6 +13,12 @@ I have been working in the field of natural language processing, and I have also
   * Researchgate https://www.researchgate.net/profile/Fatima-Adam-8
   * open rewiew  https://openreview.net/profile?id=~Fatima_Adam_Muhammad1
 * 💻 I Blog on MEDIUM https://medium.com/@fateemamohdadam2, below are some of my posts:
+   * https://medium.com/@fateemamohdadam2/web-scraping-leveraging-the-beautifulsoup-a-python-library-1d0768565602
+   * https://medium.com/@fateemamohdadam2/numpy-as-the-most-important-foundational-package-for-numerical-computing-in-python-aae237cabace
+   * https://medium.com/@fateemamohdadam2/pandas-as-a-data-structure-and-data-manipulation-tool-f948f9ab7024
+   * https://medium.com/@fateemamohdadam2/machine-learning-as-part-of-the-journey-to-data-science-19b946fb8d09
+   * https://medium.com/@fateemamohdadam2/unleashing-the-power-of-data-visualization-for-uncovering-new-insights-74d4116e5a9e
+   * https://medium.com/@fateemamohdadam2/effective-strategies-for-working-with-data-in-machine-learning-using-python-c263ba754baf
    * 
 * 🤝  I'm open to collaborating with people working in the AI research area, especially Natural Language Processing.
 * ⚡  I'm WomenTechmaker Ambassador lead Dutse.
