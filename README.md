@@ -18,7 +18,7 @@ I have been working in the field of natural language processing, and I have also
    * [Pandas as a data structure and data manipulation tool](https://medium.com/@fateemamohdadam2/pandas-as-a-data-structure-and-data-manipulation-tool-f948f9ab7024)
    * [Machine learning as part of the journey to data science]( https://medium.com/@fateemamohdadam2/machine-learning-as-part-of-the-journey-to-data-science-19b946fb8d09)
    * [Unleashing the power of data visualization for uncovering new insight](https://medium.com/@fateemamohdadam2/unleashing-the-power-of-data-visualization-for-uncovering-new-insights-74d4116e5a9e)
-   * [Effective strategies for working with data in machine learning using Python] (https://medium.com/@fateemamohdadam2/effective-strategies-for-working-with-data-in-machine-learning-using-python-c263ba754baf)
+   * [Effective strategies for working with data in machine learning using Python](https://medium.com/@fateemamohdadam2/effective-strategies-for-working-with-data-in-machine-learning-using-python-c263ba754baf)
 
 
 * 🤝  I'm open to collaborating with people working in the AI research area, especially Natural Language Processing.
