@@ -9,9 +9,9 @@ I have been working in the field of natural language processing, and I have also
 
 * 🌍  I'm based in Jigawa Nigeria
 * ✉️  You can contact me at [fateemamohdadam2@gmail.com](mailto:fateemamohdadam2@gmail.com)
-* 💕you can read on my publications on:
+* 💕you can read my publications on:
   * [Researchgate](https://www.researchgate.net/profile/Fatima-Adam-8)
-  * [open rewiew] (https://openreview.net/profile?id=~Fatima_Adam_Muhammad1)
+  * [open rewiew](https://openreview.net/profile?id=~Fatima_Adam_Muhammad1)
 * 💻 I Blog on [Medium](https://medium.com/@fateemamohdadam2) below are some of my blogs:
    * [web scraping leveraging the BeautifulSoup Python library]( https://medium.com/@fateemamohdadam2/web-scraping-leveraging-the-beautifulsoup-a-python-library-1d0768565602)
    * [Numpy as the most important foundational package for numerical computing in python](https://medium.com/@fateemamohdadam2/numpy-as-the-most-important-foundational-package-for-numerical-computing-in-python-aae237cabace)
