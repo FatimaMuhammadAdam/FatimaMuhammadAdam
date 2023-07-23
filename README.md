@@ -10,16 +10,17 @@ I have been working in the field of natural language processing, and I have also
 * 🌍  I'm based in Jigawa Nigeria
 * ✉️  You can contact me at [fateemamohdadam2@gmail.com](mailto:fateemamohdadam2@gmail.com)
 * 💕you can read on my publications on:
-  * Researchgate https://www.researchgate.net/profile/Fatima-Adam-8
-  * open rewiew  https://openreview.net/profile?id=~Fatima_Adam_Muhammad1
-* 💻 I Blog on MEDIUM https://medium.com/@fateemamohdadam2, below are some of my posts:
-   * https://medium.com/@fateemamohdadam2/web-scraping-leveraging-the-beautifulsoup-a-python-library-1d0768565602
-   * https://medium.com/@fateemamohdadam2/numpy-as-the-most-important-foundational-package-for-numerical-computing-in-python-aae237cabace
-   * https://medium.com/@fateemamohdadam2/pandas-as-a-data-structure-and-data-manipulation-tool-f948f9ab7024
-   * https://medium.com/@fateemamohdadam2/machine-learning-as-part-of-the-journey-to-data-science-19b946fb8d09
-   * https://medium.com/@fateemamohdadam2/unleashing-the-power-of-data-visualization-for-uncovering-new-insights-74d4116e5a9e
-   * https://medium.com/@fateemamohdadam2/effective-strategies-for-working-with-data-in-machine-learning-using-python-c263ba754baf
-   * 
+  * [Researchgate](https://www.researchgate.net/profile/Fatima-Adam-8)
+  * [open rewiew] (https://openreview.net/profile?id=~Fatima_Adam_Muhammad1)
+* 💻 I Blog on [Medium](https://medium.com/@fateemamohdadam2) below are some of my blogs:
+   * [web scraping leveraging the BeautifulSoup Python library]( https://medium.com/@fateemamohdadam2/web-scraping-leveraging-the-beautifulsoup-a-python-library-1d0768565602)
+   * [Numpy as the most important foundational package for numerical computing in python](https://medium.com/@fateemamohdadam2/numpy-as-the-most-important-foundational-package-for-numerical-computing-in-python-aae237cabace)
+   * [Pandas as a data structure and data manipulation tool](https://medium.com/@fateemamohdadam2/pandas-as-a-data-structure-and-data-manipulation-tool-f948f9ab7024)
+   * [Machine learning as part of the journey to data science]( https://medium.com/@fateemamohdadam2/machine-learning-as-part-of-the-journey-to-data-science-19b946fb8d09)
+   * [Unleashing the power of data visualization for uncovering new insight](https://medium.com/@fateemamohdadam2/unleashing-the-power-of-data-visualization-for-uncovering-new-insights-74d4116e5a9e)
+   * [Effective strategies for working with data in machine learning using Python] (https://medium.com/@fateemamohdadam2/effective-strategies-for-working-with-data-in-machine-learning-using-python-c263ba754baf)
+
+
 * 🤝  I'm open to collaborating with people working in the AI research area, especially Natural Language Processing.
 * ⚡  I'm WomenTechmaker Ambassador lead Dutse.
 
